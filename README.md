@@ -45,7 +45,7 @@ npm run dev
 
 ## 📎 License
 
-MIT License. Feel free to use and modify
+MIT License. Feel free to use and modify.
 
 ---
 
