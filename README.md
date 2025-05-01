@@ -1,38 +1,48 @@
-# sv
+# The Web Rewound 🌐
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Explore the evolution of the internet through the lens of visual design — from the green terminal glow of the ARPANET to the glossy sheen of Web 2.0, and beyond into a minimalist future.
 
-## Creating a project
+This project is a scrollable time capsule built using **SvelteKit** and **Tailwind CSS**, featuring dynamic visual transformations that represent various eras of the internet.
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
+
+## ✨ Features
+
+- 📜 An interactive article about the history of the internet, complete with random facts and quotes.
+- 🎨 Smooth design transitions across 8+ iconic web eras
+- 🕹️ Real-time scroll detection to change themes dynamically
+- 📱 Fully responsive layout
+
+---
+
+## 🛠️ Built With
+
+- [SvelteKit](https://kit.svelte.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Vanilla JS + HTML + CSS
+
+---
+
+## 📂 Project Structure
+
+- `/src` - SvelteKit components
+- `/static/article.html` - Core article content
+- `/public/styles.css` - Dynamic styles for each era
+- `/svelte.config.js`, `vite.config.js` - Config files
+
+---
+
+## 🚀 Getting Started
+
+To run locally:
 
 ```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+npm install
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+---
 
-To create a production version of your app:
+## ✍️ Author
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Made by Mayukh Tilak.
