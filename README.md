@@ -43,6 +43,12 @@ npm run dev
 
 ---
 
+## 📎 License
+
+MIT License. Feel free to use and modify
+
+---
+
 ## ✍️ Author
 
 Made by Mayukh Tilak.
